@@ -6,6 +6,6 @@ class MainClass
     {
         Console.WriteLine("Jak se jmenuje tvoje škola?");
         string skola = Console.ReadLine();
-        Console.WriteLine(skola + " je nejlepší!");
+        Console.ReadLine(skola + " je nejlepší!");
     }
 }
